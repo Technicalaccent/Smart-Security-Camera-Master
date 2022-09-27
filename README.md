@@ -1,7 +1,7 @@
 # Smart-Security-Camera
 IoT Raspberry Pi security camera running open-cv for object detection. The camera will send an email with an image of any objects it detects. It also runs a server that provides a live video stream over the internet.
 
-[Watch the original video here](https://youtu.be/Y2QFu-tTvTI)
+[Raspberry Pi Store App Here](https://github.com/Technicalaccent/Pi-Apps-Store)
 
 ## Setup
 
